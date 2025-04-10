@@ -171,6 +171,7 @@
     font-family: var(--font-family-base);
     color-scheme: light dark;
     interpolate-size: allow-keywords;
+    margin: 0;
   }
 
   body {
