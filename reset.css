@@ -21,9 +21,9 @@
 }
 
 @layer layout {
-  .flow > * + * {
+/*   .flow > * + * {
     margin-block-start: var(--flow-space, 1em);
-  }
+  } */
 
   .grid-flow {
     display: grid;
