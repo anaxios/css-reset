@@ -61,7 +61,7 @@
   }
   .primary-layout,
   .full-width {
-    --minimum-content-padding: var(--xl) rem;
+    --minimum-content-padding: var(--xl)rem;
 
     /** TRACK WIDTHS **/
     --full-max-width: 1fr;
