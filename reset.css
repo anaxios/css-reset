@@ -2,7 +2,7 @@
 
 :root {
   --phi: 1.618;
-  --m: 1;
+  --m: 1rem;
   --l: calc(var(--m) * var(--phi));
   --xl: calc(var(--l) * var(--phi));
   --xxl: calc(var(--xl) * var(--phi));
@@ -61,7 +61,7 @@
   }
   .primary-layout,
   .full-width {
-    --minimum-content-padding: var(--xl)rem;
+    --minimum-content-padding: var(--xl);
 
     /** TRACK WIDTHS **/
     --full-max-width: 1fr;
